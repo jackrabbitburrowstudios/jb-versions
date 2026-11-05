@@ -8,5 +8,20 @@
   "jb_idcardscript": "2.5.0",
   "jb_quickchat": "2.5.0",
   "jb_ragdoll_toggle": "2.5.0",
-  "jb_hud": "2.5.0"
+  "jb_hud": "2.5.0",
+  "jb_backpack": "0.1.0",
+  "jb_bank": "0.1.0",
+  "jb_bankrobbery": "0.1.0",
+  "jb_blackjack": "0.1.0",
+  "jb_bounty_hunter_missions": "1.1.0",
+  "jb_chess": "0.1.0",
+  "jb_core": "1.4.0",
+  "jb_criminal_missions": "1.0.0",
+  "jb_discordlog": "0.1.0",
+  "jb_doctor_missions": "1.0.1",
+  "jb_gunsmith": "0.22.0",
+  "jb_hunter_missions": "1.1.0",
+  "jb_postoffice": "0.1.0",
+  "jb_shops": "0.2.5",
+  "jb_stealing": "2.0.0"
 }
